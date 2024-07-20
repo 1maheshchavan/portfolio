@@ -50,7 +50,7 @@ export default function Home() {
         </div>
 
         <div className="home-img">
-          <img src={mahesh} alt=""></img>
+          <img src={mahesh} alt="" id="mainimg"></img>
         </div>
       </section>
 

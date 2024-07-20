@@ -181,6 +181,11 @@ section {
   box-shadow: none;
 }
 
+#mainimg{
+  border-radius: 8%;  
+  border: 2px solid rgb(208, 255, 138);
+}
+
 /* About section CSS */
 .about {
   display: flex;

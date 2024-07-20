@@ -1,5 +1,5 @@
 import React from "react";
-import output from "./images/portlogo.jpg.png";
+import output from "./images/maheshlogo.png";
 import output2 from "./images/crudlogo.jpg.png";
 
 export default function Projects() {
