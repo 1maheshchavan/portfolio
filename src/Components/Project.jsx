@@ -71,7 +71,7 @@ export default function Projects() {
               </p>
               <div className="button-container">
                 <a
-                  href="https://github.com/1maheshchavan/portfolio"
+                  href="https://maheshchavan.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="action-button"
